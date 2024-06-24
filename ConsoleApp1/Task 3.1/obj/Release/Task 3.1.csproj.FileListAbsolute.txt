@@ -1,0 +1,7 @@
+C:\CourseC#\ConsoleApp1\Task 3.1\obj\Release\Task 3.1.csproj.AssemblyReference.cache
+C:\CourseC#\ConsoleApp1\Task 3.1\obj\Release\Task 3.1.csproj.CoreCompileInputs.cache
+C:\CourseC#\ConsoleApp1\Task 3.1\bin\Release\Task 3.1.exe.config
+C:\CourseC#\ConsoleApp1\Task 3.1\bin\Release\Task 3.1.exe
+C:\CourseC#\ConsoleApp1\Task 3.1\bin\Release\Task 3.1.pdb
+C:\CourseC#\ConsoleApp1\Task 3.1\obj\Release\Task 3.1.exe
+C:\CourseC#\ConsoleApp1\Task 3.1\obj\Release\Task 3.1.pdb

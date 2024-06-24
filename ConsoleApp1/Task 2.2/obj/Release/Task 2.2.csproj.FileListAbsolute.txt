@@ -1,7 +1,0 @@
-C:\CourseC#\ConsoleApp1\Task 2.2\bin\Release\Task 2.2.exe.config
-C:\CourseC#\ConsoleApp1\Task 2.2\bin\Release\Task 2.2.exe
-C:\CourseC#\ConsoleApp1\Task 2.2\bin\Release\Task 2.2.pdb
-C:\CourseC#\ConsoleApp1\Task 2.2\obj\Release\Task 2.2.csproj.AssemblyReference.cache
-C:\CourseC#\ConsoleApp1\Task 2.2\obj\Release\Task 2.2.csproj.CoreCompileInputs.cache
-C:\CourseC#\ConsoleApp1\Task 2.2\obj\Release\Task 2.2.exe
-C:\CourseC#\ConsoleApp1\Task 2.2\obj\Release\Task 2.2.pdb

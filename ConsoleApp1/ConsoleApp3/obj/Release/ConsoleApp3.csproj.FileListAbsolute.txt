@@ -1,0 +1,7 @@
+C:\CourseC#\ConsoleApp1\ConsoleApp3\bin\Release\ConsoleApp3.exe.config
+C:\CourseC#\ConsoleApp1\ConsoleApp3\bin\Release\ConsoleApp3.exe
+C:\CourseC#\ConsoleApp1\ConsoleApp3\bin\Release\ConsoleApp3.pdb
+C:\CourseC#\ConsoleApp1\ConsoleApp3\obj\Release\ConsoleApp3.csproj.AssemblyReference.cache
+C:\CourseC#\ConsoleApp1\ConsoleApp3\obj\Release\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\CourseC#\ConsoleApp1\ConsoleApp3\obj\Release\ConsoleApp3.exe
+C:\CourseC#\ConsoleApp1\ConsoleApp3\obj\Release\ConsoleApp3.pdb

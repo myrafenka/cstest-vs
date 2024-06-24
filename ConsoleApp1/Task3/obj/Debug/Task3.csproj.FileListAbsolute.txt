@@ -1,7 +1,0 @@
-C:\CourseC#\ConsoleApp1\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
-C:\CourseC#\ConsoleApp1\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
-C:\CourseC#\ConsoleApp1\Task3\bin\Debug\Task3.exe.config
-C:\CourseC#\ConsoleApp1\Task3\bin\Debug\Task3.exe
-C:\CourseC#\ConsoleApp1\Task3\bin\Debug\Task3.pdb
-C:\CourseC#\ConsoleApp1\Task3\obj\Debug\Task3.exe
-C:\CourseC#\ConsoleApp1\Task3\obj\Debug\Task3.pdb
