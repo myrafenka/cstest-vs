@@ -1,0 +1,7 @@
+C:\CourseC#\ConsoleApp1\Task 5.3\obj\Release\Task 5.3.csproj.AssemblyReference.cache
+C:\CourseC#\ConsoleApp1\Task 5.3\obj\Release\Task 5.3.csproj.CoreCompileInputs.cache
+C:\CourseC#\ConsoleApp1\Task 5.3\bin\Release\Task 5.3.exe.config
+C:\CourseC#\ConsoleApp1\Task 5.3\bin\Release\Task 5.3.exe
+C:\CourseC#\ConsoleApp1\Task 5.3\bin\Release\Task 5.3.pdb
+C:\CourseC#\ConsoleApp1\Task 5.3\obj\Release\Task 5.3.exe
+C:\CourseC#\ConsoleApp1\Task 5.3\obj\Release\Task 5.3.pdb
